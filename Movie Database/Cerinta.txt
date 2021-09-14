@@ -1,0 +1,5 @@
+Se cere o baza de date de filme:
+- Entitate pentru filme
+- Container pentru filme
+- Control pentru filme
+- UI 
